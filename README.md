@@ -13,6 +13,6 @@ I am using GitHub more and more for a variety of software and non-software proje
     - You can see a [rough plan of our software development plans](https://github.com/users/BigSoftVideo/projects/1).
 - Public account [@QuiViRR](https://github.com/QUIVIRR) for experimental journal ([_Qualitative Video Research Reports_](https://journals.aau.dk/index.php/QUIVIRR/)).
 - Using Manubot for collaborative article drafting using Git, GitHub, Zotero, Pandoc etc.
-    - Working on a chapter on practice-based VolCap analysis for ENCA.
-    - Working on an article on practices of practical reasoning within Git and GitHub. 
+    - Working on a chapter on practice-based VolCap analysis for EMCA.
+    - Working on an article on practices of practical reasoning within DVCS, such as Git and GitHub. 
 - Personal account for private stuff.
