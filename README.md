@@ -2,7 +2,7 @@
 
 My name is Paul Bruce McIlvenny.
 `Skandilocks` is an old avatar nickname invented by me back in the late 1990s.
-I have an old `gravatar` attached to the nickname.
+I have an old, gentle `gravatar` attached to the nickname.
 
 #### What am I up to on GitHub?
 
